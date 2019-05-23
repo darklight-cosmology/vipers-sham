@@ -10,6 +10,8 @@ addons:
   apt:
     packages:
       - texlive-latex-base
+      - texlive-latex-extra
+      - texlive-latex-recommended
 install:
   - pip install -r requirements.txt
 script:
