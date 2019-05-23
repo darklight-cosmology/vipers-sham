@@ -12,6 +12,7 @@ addons:
       - texlive-latex-base
       - texlive-latex-extra
       - texlive-latex-recommended
+      - texlive-base-bin
 install:
   - pip install -r requirements.txt
 script:
