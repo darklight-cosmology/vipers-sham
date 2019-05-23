@@ -1,4 +1,5 @@
 astropy==2.0.11
+attrs==19.1.0
 emcee==2.2.1
 matplotlib==2.2.3
 nbconvert==5.4.0
