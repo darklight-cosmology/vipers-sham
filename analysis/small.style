@@ -1,0 +1,17 @@
+figure.figsize : 6,4 
+axes.labelsize: 14
+xtick.labelsize : 12
+ytick.labelsize : 12
+legend.fontsize : 12
+font.size : 14
+#font.family : serif
+#font.serif         : Times, Palatino, New Century Schoolbook, Bookman,Computer Modern Roman
+mathtext.fontset : cm
+text.usetex        : true
+
+figure.subplot.left  : 0.15    # the bottom of the subplots of the figure
+figure.subplot.right  : 0.95    # the bottom of the subplots of the figure
+figure.subplot.bottom  : 0.15    # the bottom of the subplots of the figure
+figure.subplot.top     : 0.95    # the top of the subplots of the figure
+
+

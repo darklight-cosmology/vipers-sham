@@ -1,0 +1,10 @@
+astropy==2.0.11
+emcee==2.2.1
+matplotlib==2.2.3
+nbconvert==5.4.0
+notebook>=5.7.8
+numpy==1.15.4
+progressbar2==3.39.2
+scikit-learn==0.20.2
+scipy==1.2.0
+tornado==4.2.1
