@@ -4,7 +4,7 @@ emcee==2.2.1
 matplotlib==2.2.3
 nbconvert
 notebook
-numpy==1.15.4
+numpy==1.22.0
 progressbar2==3.39.2
 scikit-learn==0.20.2
 scipy==1.2.0
